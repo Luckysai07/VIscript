@@ -1,5 +1,7 @@
 # VisualIQ — Intelligent Surveillance Transcript & RAG Intelligence Platform
 
+VisualIQ is an AI-powered CCTV intelligence platform that analyzes video, generates searchable incident transcripts, and answers natural-language questions with timestamped insights.
+
 [![Version](https://img.shields.io/badge/version-2.0.0-0fa37f.svg)](https://github.com/saikumar/visualiq)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com)
 [![Gemini](https://img.shields.io/badge/VLM-Gemini%202.5%20Flash-4285F4.svg)](https://ai.google.dev/)
